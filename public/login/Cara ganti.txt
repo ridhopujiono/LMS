@@ -1,0 +1,49 @@
+CARA GANTI: (index.html, sop.html, tentang)
+
+        LAMA
+        <!-- COURSEL / SLIDER -->
+        <div class="container_COURSEL">
+          <div id="slider">
+            <figure>
+              <img src="./assets/imgs/Cover_03.jpg" />
+              <img src="./assets/imgs/Cover_04.jpg" />
+              <img src="./assets/imgs/Cover_05.jpg" />
+              <img src="./assets/imgs/Cover_03.jpg" />
+            </figure>
+          </div>
+        </div>
+
+        BARU
+        <!-- COURSEL / SLIDER -->
+        <div class="container_COURSEL">
+          <div id="slider">
+            <figure>
+              <img src="./assets/imgs/Cover_01.png" />
+              <img src="./assets/imgs/Cover_02.png" />
+              <img src="./assets/imgs/Cover_01.png" />
+              <img src="./assets/imgs/Cover_02.png" />
+              <img src="./assets/imgs/Cover_01.png" />
+            </figure>
+          </div>
+        </div>
+
+        --------------------------------------------------------------
+
+        LAMA
+        <!-- CLASSROOM -->
+        <div class="container_CLASSROOM">
+          <a><img src="./assets/imgs/Kelas_01.png" width="100%" /></a>
+          <a><img src="./assets/imgs/Kelas_02.png" width="100%" /></a>
+          <a><img src="./assets/imgs/Kelas_03.png" width="100%" /></a>
+        </div>
+
+        BARU
+        <!-- CLASSROOM -->
+        <div class="container_CLASSROOM">
+          <a href="#"><img src="./assets/imgs/Kelas_01.png" width="100%" /></a>
+          <a href="#"><img src="./assets/imgs/Kelas_02.png" width="100%" /></a>
+          <a href="#"><img src="./assets/imgs/Kelas_03.png" width="100%" /></a>
+        </div>
+
+CARA GANTI: (main.css, sop.css, tentang.css)
+    - Copy, Paste, terus replace
